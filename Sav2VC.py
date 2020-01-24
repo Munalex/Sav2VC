@@ -9,6 +9,6 @@ if len(sys.argv) >= 1:
 
         print("[+] Done! save.dat created")
 else:
-    print("error method of use Sav2VC.py file.sav")
+    print("error method of use Sav2VC.py file.dat")
 
 
